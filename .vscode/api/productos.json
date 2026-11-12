@@ -1,0 +1,1874 @@
+[
+  {
+    "id": 1,
+    "nombre": "Remera básica Essential Negro",
+    "descripcion": "Remera de algodón suave para uso diario. Color negro. Diseño pensado para combinar fácilmente.",
+    "precio": 12500,
+    "moneda": "ARS",
+    "categoria": "remeras",
+    "imagen": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Negro"
+    ],
+    "stock": 12,
+    "destacado": false
+  },
+  {
+    "id": 2,
+    "nombre": "Remera oversize Urban Azul",
+    "descripcion": "Remera de corte amplio y estilo urbano. Color azul. Diseño pensado para combinar fácilmente.",
+    "precio": 14000,
+    "moneda": "ARS",
+    "categoria": "remeras",
+    "imagen": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Azul"
+    ],
+    "stock": 19,
+    "destacado": false
+  },
+  {
+    "id": 3,
+    "nombre": "Remera estampada Classic Beige",
+    "descripcion": "Remera cómoda con diseño estampado. Color beige. Diseño pensado para combinar fácilmente.",
+    "precio": 15500,
+    "moneda": "ARS",
+    "categoria": "remeras",
+    "imagen": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Beige"
+    ],
+    "stock": 26,
+    "destacado": false
+  },
+  {
+    "id": 4,
+    "nombre": "Remera básica Daily Bordó",
+    "descripcion": "Remera de algodón suave para uso diario. Color bordó. Diseño pensado para combinar fácilmente.",
+    "precio": 17000,
+    "moneda": "ARS",
+    "categoria": "remeras",
+    "imagen": "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Bordó"
+    ],
+    "stock": 33,
+    "destacado": false
+  },
+  {
+    "id": 5,
+    "nombre": "Remera oversize Street Negro",
+    "descripcion": "Remera de corte amplio y estilo urbano. Color negro. Diseño pensado para combinar fácilmente.",
+    "precio": 18500,
+    "moneda": "ARS",
+    "categoria": "remeras",
+    "imagen": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Negro"
+    ],
+    "stock": 40,
+    "destacado": false
+  },
+  {
+    "id": 6,
+    "nombre": "Remera estampada Comfort Azul",
+    "descripcion": "Remera cómoda con diseño estampado. Color azul. Diseño pensado para combinar fácilmente.",
+    "precio": 12500,
+    "moneda": "ARS",
+    "categoria": "remeras",
+    "imagen": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Azul"
+    ],
+    "stock": 11,
+    "destacado": false
+  },
+  {
+    "id": 7,
+    "nombre": "Remera básica Essential Beige",
+    "descripcion": "Remera de algodón suave para uso diario. Color beige. Diseño pensado para combinar fácilmente.",
+    "precio": 14000,
+    "moneda": "ARS",
+    "categoria": "remeras",
+    "imagen": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Beige"
+    ],
+    "stock": 18,
+    "destacado": false
+  },
+  {
+    "id": 8,
+    "nombre": "Remera oversize Urban Bordó",
+    "descripcion": "Remera de corte amplio y estilo urbano. Color bordó. Diseño pensado para combinar fácilmente.",
+    "precio": 15500,
+    "moneda": "ARS",
+    "categoria": "remeras",
+    "imagen": "https://images.unsplash.com/photo-1551488831-00ddcb6cbd3?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1551488831-00ddcb6cbd3?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Bordó"
+    ],
+    "stock": 25,
+    "destacado": true
+  },
+  {
+    "id": 9,
+    "nombre": "Remera estampada Classic Negro",
+    "descripcion": "Remera cómoda con diseño estampado. Color negro. Diseño pensado para combinar fácilmente.",
+    "precio": 17000,
+    "moneda": "ARS",
+    "categoria": "remeras",
+    "imagen": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Negro"
+    ],
+    "stock": 32,
+    "destacado": false
+  },
+  {
+    "id": 10,
+    "nombre": "Remera básica Daily Azul",
+    "descripcion": "Remera de algodón suave para uso diario. Color azul. Diseño pensado para combinar fácilmente.",
+    "precio": 18500,
+    "moneda": "ARS",
+    "categoria": "remeras",
+    "imagen": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Azul"
+    ],
+    "stock": 39,
+    "destacado": false
+  },
+  {
+    "id": 11,
+    "nombre": "Remera oversize Street Beige",
+    "descripcion": "Remera de corte amplio y estilo urbano. Color beige. Diseño pensado para combinar fácilmente.",
+    "precio": 12500,
+    "moneda": "ARS",
+    "categoria": "remeras",
+    "imagen": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Beige"
+    ],
+    "stock": 10,
+    "destacado": false
+  },
+  {
+    "id": 12,
+    "nombre": "Remera estampada Comfort Bordó",
+    "descripcion": "Remera cómoda con diseño estampado. Color bordó. Diseño pensado para combinar fácilmente.",
+    "precio": 14000,
+    "moneda": "ARS",
+    "categoria": "remeras",
+    "imagen": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Bordó"
+    ],
+    "stock": 17,
+    "destacado": false
+  },
+  {
+    "id": 13,
+    "nombre": "Remera básica Essential Negro",
+    "descripcion": "Remera de algodón suave para uso diario. Color negro. Diseño pensado para combinar fácilmente.",
+    "precio": 15500,
+    "moneda": "ARS",
+    "categoria": "remeras",
+    "imagen": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Negro"
+    ],
+    "stock": 24,
+    "destacado": false
+  },
+  {
+    "id": 14,
+    "nombre": "Remera oversize Urban Azul",
+    "descripcion": "Remera de corte amplio y estilo urbano. Color azul. Diseño pensado para combinar fácilmente.",
+    "precio": 17000,
+    "moneda": "ARS",
+    "categoria": "remeras",
+    "imagen": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Azul"
+    ],
+    "stock": 31,
+    "destacado": false
+  },
+  {
+    "id": 15,
+    "nombre": "Remera estampada Classic Beige",
+    "descripcion": "Remera cómoda con diseño estampado. Color beige. Diseño pensado para combinar fácilmente.",
+    "precio": 18500,
+    "moneda": "ARS",
+    "categoria": "remeras",
+    "imagen": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Beige"
+    ],
+    "stock": 38,
+    "destacado": false
+  },
+  {
+    "id": 16,
+    "nombre": "Remera básica Daily Bordó",
+    "descripcion": "Remera de algodón suave para uso diario. Color bordó. Diseño pensado para combinar fácilmente.",
+    "precio": 12500,
+    "moneda": "ARS",
+    "categoria": "remeras",
+    "imagen": "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Bordó"
+    ],
+    "stock": 9,
+    "destacado": true
+  },
+  {
+    "id": 17,
+    "nombre": "Jean clásico Essential Negro",
+    "descripcion": "Jean de denim con corte clásico. Color negro. Diseño pensado para combinar fácilmente.",
+    "precio": 28500,
+    "moneda": "ARS",
+    "categoria": "pantalones",
+    "imagen": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Negro"
+    ],
+    "stock": 16,
+    "destacado": false
+  },
+  {
+    "id": 18,
+    "nombre": "Pantalón cargo Urban Azul",
+    "descripcion": "Pantalón con bolsillos laterales y estilo urbano. Color azul. Diseño pensado para combinar fácilmente.",
+    "precio": 31500,
+    "moneda": "ARS",
+    "categoria": "pantalones",
+    "imagen": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Azul"
+    ],
+    "stock": 23,
+    "destacado": false
+  },
+  {
+    "id": 19,
+    "nombre": "Jogger Classic Beige",
+    "descripcion": "Pantalón cómodo con cintura elastizada. Color beige. Diseño pensado para combinar fácilmente.",
+    "precio": 34500,
+    "moneda": "ARS",
+    "categoria": "pantalones",
+    "imagen": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Beige"
+    ],
+    "stock": 30,
+    "destacado": false
+  },
+  {
+    "id": 20,
+    "nombre": "Jean clásico Daily Bordó",
+    "descripcion": "Jean de denim con corte clásico. Color bordó. Diseño pensado para combinar fácilmente.",
+    "precio": 37500,
+    "moneda": "ARS",
+    "categoria": "pantalones",
+    "imagen": "https://images.unsplash.com/photo-1551488831-00ddcb6cbd3?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1551488831-00ddcb6cbd3?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Bordó"
+    ],
+    "stock": 37,
+    "destacado": false
+  },
+  {
+    "id": 21,
+    "nombre": "Pantalón cargo Street Negro",
+    "descripcion": "Pantalón con bolsillos laterales y estilo urbano. Color negro. Diseño pensado para combinar fácilmente.",
+    "precio": 40500,
+    "moneda": "ARS",
+    "categoria": "pantalones",
+    "imagen": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Negro"
+    ],
+    "stock": 8,
+    "destacado": false
+  },
+  {
+    "id": 22,
+    "nombre": "Jogger Comfort Azul",
+    "descripcion": "Pantalón cómodo con cintura elastizada. Color azul. Diseño pensado para combinar fácilmente.",
+    "precio": 28500,
+    "moneda": "ARS",
+    "categoria": "pantalones",
+    "imagen": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Azul"
+    ],
+    "stock": 15,
+    "destacado": false
+  },
+  {
+    "id": 23,
+    "nombre": "Jean clásico Essential Beige",
+    "descripcion": "Jean de denim con corte clásico. Color beige. Diseño pensado para combinar fácilmente.",
+    "precio": 31500,
+    "moneda": "ARS",
+    "categoria": "pantalones",
+    "imagen": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Beige"
+    ],
+    "stock": 22,
+    "destacado": false
+  },
+  {
+    "id": 24,
+    "nombre": "Pantalón cargo Urban Bordó",
+    "descripcion": "Pantalón con bolsillos laterales y estilo urbano. Color bordó. Diseño pensado para combinar fácilmente.",
+    "precio": 34500,
+    "moneda": "ARS",
+    "categoria": "pantalones",
+    "imagen": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Bordó"
+    ],
+    "stock": 29,
+    "destacado": true
+  },
+  {
+    "id": 25,
+    "nombre": "Jogger Classic Negro",
+    "descripcion": "Pantalón cómodo con cintura elastizada. Color negro. Diseño pensado para combinar fácilmente.",
+    "precio": 37500,
+    "moneda": "ARS",
+    "categoria": "pantalones",
+    "imagen": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Negro"
+    ],
+    "stock": 36,
+    "destacado": false
+  },
+  {
+    "id": 26,
+    "nombre": "Jean clásico Daily Azul",
+    "descripcion": "Jean de denim con corte clásico. Color azul. Diseño pensado para combinar fácilmente.",
+    "precio": 40500,
+    "moneda": "ARS",
+    "categoria": "pantalones",
+    "imagen": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Azul"
+    ],
+    "stock": 7,
+    "destacado": false
+  },
+  {
+    "id": 27,
+    "nombre": "Pantalón cargo Street Beige",
+    "descripcion": "Pantalón con bolsillos laterales y estilo urbano. Color beige. Diseño pensado para combinar fácilmente.",
+    "precio": 28500,
+    "moneda": "ARS",
+    "categoria": "pantalones",
+    "imagen": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Beige"
+    ],
+    "stock": 14,
+    "destacado": false
+  },
+  {
+    "id": 28,
+    "nombre": "Jogger Comfort Bordó",
+    "descripcion": "Pantalón cómodo con cintura elastizada. Color bordó. Diseño pensado para combinar fácilmente.",
+    "precio": 31500,
+    "moneda": "ARS",
+    "categoria": "pantalones",
+    "imagen": "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Bordó"
+    ],
+    "stock": 21,
+    "destacado": false
+  },
+  {
+    "id": 29,
+    "nombre": "Jean clásico Essential Negro",
+    "descripcion": "Jean de denim con corte clásico. Color negro. Diseño pensado para combinar fácilmente.",
+    "precio": 34500,
+    "moneda": "ARS",
+    "categoria": "pantalones",
+    "imagen": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Negro"
+    ],
+    "stock": 28,
+    "destacado": false
+  },
+  {
+    "id": 30,
+    "nombre": "Pantalón cargo Urban Azul",
+    "descripcion": "Pantalón con bolsillos laterales y estilo urbano. Color azul. Diseño pensado para combinar fácilmente.",
+    "precio": 37500,
+    "moneda": "ARS",
+    "categoria": "pantalones",
+    "imagen": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Azul"
+    ],
+    "stock": 35,
+    "destacado": false
+  },
+  {
+    "id": 31,
+    "nombre": "Buzo con capucha Essential Bordó",
+    "descripcion": "Buzo abrigado con capucha y bolsillo frontal. Color bordó. Diseño pensado para combinar fácilmente.",
+    "precio": 32000,
+    "moneda": "ARS",
+    "categoria": "buzos",
+    "imagen": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Bordó"
+    ],
+    "stock": 6,
+    "destacado": false
+  },
+  {
+    "id": 32,
+    "nombre": "Buzo cuello redondo Urban Negro",
+    "descripcion": "Buzo de algodón con cuello redondo. Color negro. Diseño pensado para combinar fácilmente.",
+    "precio": 35000,
+    "moneda": "ARS",
+    "categoria": "buzos",
+    "imagen": "https://images.unsplash.com/photo-1551488831-00ddcb6cbd3?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1551488831-00ddcb6cbd3?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Negro"
+    ],
+    "stock": 13,
+    "destacado": true
+  },
+  {
+    "id": 33,
+    "nombre": "Buzo oversize Classic Azul",
+    "descripcion": "Buzo amplio de estilo urbano. Color azul. Diseño pensado para combinar fácilmente.",
+    "precio": 38000,
+    "moneda": "ARS",
+    "categoria": "buzos",
+    "imagen": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Azul"
+    ],
+    "stock": 20,
+    "destacado": false
+  },
+  {
+    "id": 34,
+    "nombre": "Buzo con capucha Daily Beige",
+    "descripcion": "Buzo abrigado con capucha y bolsillo frontal. Color beige. Diseño pensado para combinar fácilmente.",
+    "precio": 41000,
+    "moneda": "ARS",
+    "categoria": "buzos",
+    "imagen": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Beige"
+    ],
+    "stock": 27,
+    "destacado": false
+  },
+  {
+    "id": 35,
+    "nombre": "Buzo cuello redondo Street Bordó",
+    "descripcion": "Buzo de algodón con cuello redondo. Color bordó. Diseño pensado para combinar fácilmente.",
+    "precio": 44000,
+    "moneda": "ARS",
+    "categoria": "buzos",
+    "imagen": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Bordó"
+    ],
+    "stock": 34,
+    "destacado": false
+  },
+  {
+    "id": 36,
+    "nombre": "Buzo oversize Comfort Negro",
+    "descripcion": "Buzo amplio de estilo urbano. Color negro. Diseño pensado para combinar fácilmente.",
+    "precio": 32000,
+    "moneda": "ARS",
+    "categoria": "buzos",
+    "imagen": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Negro"
+    ],
+    "stock": 5,
+    "destacado": false
+  },
+  {
+    "id": 37,
+    "nombre": "Buzo con capucha Essential Azul",
+    "descripcion": "Buzo abrigado con capucha y bolsillo frontal. Color azul. Diseño pensado para combinar fácilmente.",
+    "precio": 35000,
+    "moneda": "ARS",
+    "categoria": "buzos",
+    "imagen": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Azul"
+    ],
+    "stock": 12,
+    "destacado": false
+  },
+  {
+    "id": 38,
+    "nombre": "Buzo cuello redondo Urban Beige",
+    "descripcion": "Buzo de algodón con cuello redondo. Color beige. Diseño pensado para combinar fácilmente.",
+    "precio": 38000,
+    "moneda": "ARS",
+    "categoria": "buzos",
+    "imagen": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Beige"
+    ],
+    "stock": 19,
+    "destacado": false
+  },
+  {
+    "id": 39,
+    "nombre": "Buzo oversize Classic Bordó",
+    "descripcion": "Buzo amplio de estilo urbano. Color bordó. Diseño pensado para combinar fácilmente.",
+    "precio": 41000,
+    "moneda": "ARS",
+    "categoria": "buzos",
+    "imagen": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Bordó"
+    ],
+    "stock": 26,
+    "destacado": false
+  },
+  {
+    "id": 40,
+    "nombre": "Buzo con capucha Daily Negro",
+    "descripcion": "Buzo abrigado con capucha y bolsillo frontal. Color negro. Diseño pensado para combinar fácilmente.",
+    "precio": 44000,
+    "moneda": "ARS",
+    "categoria": "buzos",
+    "imagen": "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Negro"
+    ],
+    "stock": 33,
+    "destacado": true
+  },
+  {
+    "id": 41,
+    "nombre": "Buzo cuello redondo Street Azul",
+    "descripcion": "Buzo de algodón con cuello redondo. Color azul. Diseño pensado para combinar fácilmente.",
+    "precio": 32000,
+    "moneda": "ARS",
+    "categoria": "buzos",
+    "imagen": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Azul"
+    ],
+    "stock": 40,
+    "destacado": false
+  },
+  {
+    "id": 42,
+    "nombre": "Buzo oversize Comfort Beige",
+    "descripcion": "Buzo amplio de estilo urbano. Color beige. Diseño pensado para combinar fácilmente.",
+    "precio": 35000,
+    "moneda": "ARS",
+    "categoria": "buzos",
+    "imagen": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Beige"
+    ],
+    "stock": 11,
+    "destacado": false
+  },
+  {
+    "id": 43,
+    "nombre": "Buzo con capucha Essential Bordó",
+    "descripcion": "Buzo abrigado con capucha y bolsillo frontal. Color bordó. Diseño pensado para combinar fácilmente.",
+    "precio": 38000,
+    "moneda": "ARS",
+    "categoria": "buzos",
+    "imagen": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Bordó"
+    ],
+    "stock": 18,
+    "destacado": false
+  },
+  {
+    "id": 44,
+    "nombre": "Buzo cuello redondo Urban Negro",
+    "descripcion": "Buzo de algodón con cuello redondo. Color negro. Diseño pensado para combinar fácilmente.",
+    "precio": 41000,
+    "moneda": "ARS",
+    "categoria": "buzos",
+    "imagen": "https://images.unsplash.com/photo-1551488831-00ddcb6cbd3?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1551488831-00ddcb6cbd3?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Negro"
+    ],
+    "stock": 25,
+    "destacado": false
+  },
+  {
+    "id": 45,
+    "nombre": "Campera de jean Essential Beige",
+    "descripcion": "Campera de denim para media estación. Color beige. Diseño pensado para combinar fácilmente.",
+    "precio": 52000,
+    "moneda": "ARS",
+    "categoria": "camperas",
+    "imagen": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Beige"
+    ],
+    "stock": 32,
+    "destacado": false
+  },
+  {
+    "id": 46,
+    "nombre": "Campera puffer Urban Bordó",
+    "descripcion": "Campera acolchada para días fríos. Color bordó. Diseño pensado para combinar fácilmente.",
+    "precio": 55000,
+    "moneda": "ARS",
+    "categoria": "camperas",
+    "imagen": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Bordó"
+    ],
+    "stock": 39,
+    "destacado": false
+  },
+  {
+    "id": 47,
+    "nombre": "Campera deportiva Classic Negro",
+    "descripcion": "Campera liviana de estilo deportivo. Color negro. Diseño pensado para combinar fácilmente.",
+    "precio": 58000,
+    "moneda": "ARS",
+    "categoria": "camperas",
+    "imagen": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Negro"
+    ],
+    "stock": 10,
+    "destacado": false
+  },
+  {
+    "id": 48,
+    "nombre": "Campera de jean Daily Azul",
+    "descripcion": "Campera de denim para media estación. Color azul. Diseño pensado para combinar fácilmente.",
+    "precio": 61000,
+    "moneda": "ARS",
+    "categoria": "camperas",
+    "imagen": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Azul"
+    ],
+    "stock": 17,
+    "destacado": true
+  },
+  {
+    "id": 49,
+    "nombre": "Campera puffer Street Beige",
+    "descripcion": "Campera acolchada para días fríos. Color beige. Diseño pensado para combinar fácilmente.",
+    "precio": 64000,
+    "moneda": "ARS",
+    "categoria": "camperas",
+    "imagen": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Beige"
+    ],
+    "stock": 24,
+    "destacado": false
+  },
+  {
+    "id": 50,
+    "nombre": "Campera deportiva Comfort Bordó",
+    "descripcion": "Campera liviana de estilo deportivo. Color bordó. Diseño pensado para combinar fácilmente.",
+    "precio": 52000,
+    "moneda": "ARS",
+    "categoria": "camperas",
+    "imagen": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Bordó"
+    ],
+    "stock": 31,
+    "destacado": false
+  },
+  {
+    "id": 51,
+    "nombre": "Campera de jean Essential Negro",
+    "descripcion": "Campera de denim para media estación. Color negro. Diseño pensado para combinar fácilmente.",
+    "precio": 55000,
+    "moneda": "ARS",
+    "categoria": "camperas",
+    "imagen": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Negro"
+    ],
+    "stock": 38,
+    "destacado": false
+  },
+  {
+    "id": 52,
+    "nombre": "Campera puffer Urban Azul",
+    "descripcion": "Campera acolchada para días fríos. Color azul. Diseño pensado para combinar fácilmente.",
+    "precio": 58000,
+    "moneda": "ARS",
+    "categoria": "camperas",
+    "imagen": "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Azul"
+    ],
+    "stock": 9,
+    "destacado": false
+  },
+  {
+    "id": 53,
+    "nombre": "Campera deportiva Classic Beige",
+    "descripcion": "Campera liviana de estilo deportivo. Color beige. Diseño pensado para combinar fácilmente.",
+    "precio": 61000,
+    "moneda": "ARS",
+    "categoria": "camperas",
+    "imagen": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Beige"
+    ],
+    "stock": 16,
+    "destacado": false
+  },
+  {
+    "id": 54,
+    "nombre": "Campera de jean Daily Bordó",
+    "descripcion": "Campera de denim para media estación. Color bordó. Diseño pensado para combinar fácilmente.",
+    "precio": 64000,
+    "moneda": "ARS",
+    "categoria": "camperas",
+    "imagen": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Bordó"
+    ],
+    "stock": 23,
+    "destacado": false
+  },
+  {
+    "id": 55,
+    "nombre": "Campera puffer Street Negro",
+    "descripcion": "Campera acolchada para días fríos. Color negro. Diseño pensado para combinar fácilmente.",
+    "precio": 52000,
+    "moneda": "ARS",
+    "categoria": "camperas",
+    "imagen": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Negro"
+    ],
+    "stock": 30,
+    "destacado": false
+  },
+  {
+    "id": 56,
+    "nombre": "Campera deportiva Comfort Azul",
+    "descripcion": "Campera liviana de estilo deportivo. Color azul. Diseño pensado para combinar fácilmente.",
+    "precio": 55000,
+    "moneda": "ARS",
+    "categoria": "camperas",
+    "imagen": "https://images.unsplash.com/photo-1551488831-00ddcb6cbd3?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1551488831-00ddcb6cbd3?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Azul"
+    ],
+    "stock": 37,
+    "destacado": true
+  },
+  {
+    "id": 57,
+    "nombre": "Vestido casual Essential Negro",
+    "descripcion": "Vestido cómodo para salidas y uso diario. Color negro. Diseño pensado para combinar fácilmente.",
+    "precio": 27000,
+    "moneda": "ARS",
+    "categoria": "vestidos",
+    "imagen": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Negro"
+    ],
+    "stock": 8,
+    "destacado": false
+  },
+  {
+    "id": 58,
+    "nombre": "Vestido midi Urban Azul",
+    "descripcion": "Vestido de largo midi y diseño versátil. Color azul. Diseño pensado para combinar fácilmente.",
+    "precio": 28500,
+    "moneda": "ARS",
+    "categoria": "vestidos",
+    "imagen": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Azul"
+    ],
+    "stock": 15,
+    "destacado": false
+  },
+  {
+    "id": 59,
+    "nombre": "Vestido de verano Classic Beige",
+    "descripcion": "Vestido liviano para días cálidos. Color beige. Diseño pensado para combinar fácilmente.",
+    "precio": 30000,
+    "moneda": "ARS",
+    "categoria": "vestidos",
+    "imagen": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Beige"
+    ],
+    "stock": 22,
+    "destacado": false
+  },
+  {
+    "id": 60,
+    "nombre": "Vestido casual Daily Bordó",
+    "descripcion": "Vestido cómodo para salidas y uso diario. Color bordó. Diseño pensado para combinar fácilmente.",
+    "precio": 31500,
+    "moneda": "ARS",
+    "categoria": "vestidos",
+    "imagen": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Bordó"
+    ],
+    "stock": 29,
+    "destacado": false
+  },
+  {
+    "id": 61,
+    "nombre": "Vestido midi Street Negro",
+    "descripcion": "Vestido de largo midi y diseño versátil. Color negro. Diseño pensado para combinar fácilmente.",
+    "precio": 33000,
+    "moneda": "ARS",
+    "categoria": "vestidos",
+    "imagen": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Negro"
+    ],
+    "stock": 36,
+    "destacado": false
+  },
+  {
+    "id": 62,
+    "nombre": "Vestido de verano Comfort Azul",
+    "descripcion": "Vestido liviano para días cálidos. Color azul. Diseño pensado para combinar fácilmente.",
+    "precio": 27000,
+    "moneda": "ARS",
+    "categoria": "vestidos",
+    "imagen": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Azul"
+    ],
+    "stock": 7,
+    "destacado": false
+  },
+  {
+    "id": 63,
+    "nombre": "Vestido casual Essential Beige",
+    "descripcion": "Vestido cómodo para salidas y uso diario. Color beige. Diseño pensado para combinar fácilmente.",
+    "precio": 28500,
+    "moneda": "ARS",
+    "categoria": "vestidos",
+    "imagen": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Beige"
+    ],
+    "stock": 14,
+    "destacado": false
+  },
+  {
+    "id": 64,
+    "nombre": "Vestido midi Urban Bordó",
+    "descripcion": "Vestido de largo midi y diseño versátil. Color bordó. Diseño pensado para combinar fácilmente.",
+    "precio": 30000,
+    "moneda": "ARS",
+    "categoria": "vestidos",
+    "imagen": "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Bordó"
+    ],
+    "stock": 21,
+    "destacado": true
+  },
+  {
+    "id": 65,
+    "nombre": "Vestido de verano Classic Negro",
+    "descripcion": "Vestido liviano para días cálidos. Color negro. Diseño pensado para combinar fácilmente.",
+    "precio": 31500,
+    "moneda": "ARS",
+    "categoria": "vestidos",
+    "imagen": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Negro"
+    ],
+    "stock": 28,
+    "destacado": false
+  },
+  {
+    "id": 66,
+    "nombre": "Vestido casual Daily Azul",
+    "descripcion": "Vestido cómodo para salidas y uso diario. Color azul. Diseño pensado para combinar fácilmente.",
+    "precio": 33000,
+    "moneda": "ARS",
+    "categoria": "vestidos",
+    "imagen": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Azul"
+    ],
+    "stock": 35,
+    "destacado": false
+  },
+  {
+    "id": 67,
+    "nombre": "Vestido midi Street Beige",
+    "descripcion": "Vestido de largo midi y diseño versátil. Color beige. Diseño pensado para combinar fácilmente.",
+    "precio": 27000,
+    "moneda": "ARS",
+    "categoria": "vestidos",
+    "imagen": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Beige"
+    ],
+    "stock": 6,
+    "destacado": false
+  },
+  {
+    "id": 68,
+    "nombre": "Vestido de verano Comfort Bordó",
+    "descripcion": "Vestido liviano para días cálidos. Color bordó. Diseño pensado para combinar fácilmente.",
+    "precio": 28500,
+    "moneda": "ARS",
+    "categoria": "vestidos",
+    "imagen": "https://images.unsplash.com/photo-1551488831-00ddcb6cbd3?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1551488831-00ddcb6cbd3?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "Bordó"
+    ],
+    "stock": 13,
+    "destacado": false
+  },
+  {
+    "id": 69,
+    "nombre": "Zapatillas urbanas Essential Beige",
+    "descripcion": "Zapatillas versátiles para todos los días. Color beige. Diseño pensado para combinar fácilmente.",
+    "precio": 48000,
+    "moneda": "ARS",
+    "categoria": "zapatillas",
+    "imagen": "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1591047139829-d91aecb6caea?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "Único"
+    ],
+    "colores": [
+      "Beige"
+    ],
+    "stock": 20,
+    "destacado": false
+  },
+  {
+    "id": 70,
+    "nombre": "Zapatillas deportivas Urban Bordó",
+    "descripcion": "Calzado cómodo para actividades y uso diario. Color bordó. Diseño pensado para combinar fácilmente.",
+    "precio": 51000,
+    "moneda": "ARS",
+    "categoria": "zapatillas",
+    "imagen": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1576566588028-4147f3842f27?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "Único"
+    ],
+    "colores": [
+      "Bordó"
+    ],
+    "stock": 27,
+    "destacado": false
+  },
+  {
+    "id": 71,
+    "nombre": "Zapatillas urbanas Classic Negro",
+    "descripcion": "Zapatillas versátiles para todos los días. Color negro. Diseño pensado para combinar fácilmente.",
+    "precio": 54000,
+    "moneda": "ARS",
+    "categoria": "zapatillas",
+    "imagen": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "Único"
+    ],
+    "colores": [
+      "Negro"
+    ],
+    "stock": 34,
+    "destacado": false
+  },
+  {
+    "id": 72,
+    "nombre": "Zapatillas deportivas Daily Azul",
+    "descripcion": "Calzado cómodo para actividades y uso diario. Color azul. Diseño pensado para combinar fácilmente.",
+    "precio": 57000,
+    "moneda": "ARS",
+    "categoria": "zapatillas",
+    "imagen": "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1544441893-675973e31985?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "Único"
+    ],
+    "colores": [
+      "Azul"
+    ],
+    "stock": 5,
+    "destacado": true
+  },
+  {
+    "id": 73,
+    "nombre": "Zapatillas urbanas Street Beige",
+    "descripcion": "Zapatillas versátiles para todos los días. Color beige. Diseño pensado para combinar fácilmente.",
+    "precio": 60000,
+    "moneda": "ARS",
+    "categoria": "zapatillas",
+    "imagen": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "Único"
+    ],
+    "colores": [
+      "Beige"
+    ],
+    "stock": 12,
+    "destacado": false
+  },
+  {
+    "id": 74,
+    "nombre": "Zapatillas deportivas Comfort Bordó",
+    "descripcion": "Calzado cómodo para actividades y uso diario. Color bordó. Diseño pensado para combinar fácilmente.",
+    "precio": 48000,
+    "moneda": "ARS",
+    "categoria": "zapatillas",
+    "imagen": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "Único"
+    ],
+    "colores": [
+      "Bordó"
+    ],
+    "stock": 19,
+    "destacado": false
+  },
+  {
+    "id": 75,
+    "nombre": "Zapatillas urbanas Essential Negro",
+    "descripcion": "Zapatillas versátiles para todos los días. Color negro. Diseño pensado para combinar fácilmente.",
+    "precio": 51000,
+    "moneda": "ARS",
+    "categoria": "zapatillas",
+    "imagen": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "Único"
+    ],
+    "colores": [
+      "Negro"
+    ],
+    "stock": 26,
+    "destacado": false
+  },
+  {
+    "id": 76,
+    "nombre": "Zapatillas deportivas Urban Azul",
+    "descripcion": "Calzado cómodo para actividades y uso diario. Color azul. Diseño pensado para combinar fácilmente.",
+    "precio": 54000,
+    "moneda": "ARS",
+    "categoria": "zapatillas",
+    "imagen": "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "Único"
+    ],
+    "colores": [
+      "Azul"
+    ],
+    "stock": 33,
+    "destacado": false
+  },
+  {
+    "id": 77,
+    "nombre": "Zapatillas urbanas Classic Beige",
+    "descripcion": "Zapatillas versátiles para todos los días. Color beige. Diseño pensado para combinar fácilmente.",
+    "precio": 57000,
+    "moneda": "ARS",
+    "categoria": "zapatillas",
+    "imagen": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "Único"
+    ],
+    "colores": [
+      "Beige"
+    ],
+    "stock": 40,
+    "destacado": false
+  },
+  {
+    "id": 78,
+    "nombre": "Zapatillas deportivas Daily Bordó",
+    "descripcion": "Calzado cómodo para actividades y uso diario. Color bordó. Diseño pensado para combinar fácilmente.",
+    "precio": 60000,
+    "moneda": "ARS",
+    "categoria": "zapatillas",
+    "imagen": "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1551028719-00167b16eac5?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "Único"
+    ],
+    "colores": [
+      "Bordó"
+    ],
+    "stock": 11,
+    "destacado": false
+  },
+  {
+    "id": 79,
+    "nombre": "Zapatillas urbanas Street Negro",
+    "descripcion": "Zapatillas versátiles para todos los días. Color negro. Diseño pensado para combinar fácilmente.",
+    "precio": 48000,
+    "moneda": "ARS",
+    "categoria": "zapatillas",
+    "imagen": "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "Único"
+    ],
+    "colores": [
+      "Negro"
+    ],
+    "stock": 18,
+    "destacado": false
+  },
+  {
+    "id": 80,
+    "nombre": "Zapatillas deportivas Comfort Azul",
+    "descripcion": "Calzado cómodo para actividades y uso diario. Color azul. Diseño pensado para combinar fácilmente.",
+    "precio": 51000,
+    "moneda": "ARS",
+    "categoria": "zapatillas",
+    "imagen": "https://images.unsplash.com/photo-1551488831-00ddcb6cbd3?auto=format&fit=crop&w=900&q=80",
+    "imagenes": [
+      "https://images.unsplash.com/photo-1551488831-00ddcb6cbd3?auto=format&fit=crop&w=900&q=80"
+    ],
+    "talles": [
+      "Único"
+    ],
+    "colores": [
+      "Azul"
+    ],
+    "stock": 25,
+    "destacado": true
+  }
+]
